@@ -1,8 +1,11 @@
 * {
-  font-family: verdana, tahoma, sans-serif;
+  font-family: "Arial black", tahoma, sans-serif;
   margin: auto;
 }
-html {
+
+.pic {
+  display: block;
+  width: 800px;
 
 }
 
@@ -14,16 +17,16 @@ body {
 
 }
 
-p {
-  font-size: 18px;
-  display: inline-block;
+h1 {
+  font-size: 36px;
+  display: block;
   width: 100%;
   margin-bottom: 20px;
 
 }
 
-a {
-  color: steelblue;
-  text-decoration: none;
-  font-weight: bold;
-  font-size: 20px;
+h2 {
+  font-size: 24px;
+  display: block;
+  width: 100%;
+  margin-bottom: 20px;
